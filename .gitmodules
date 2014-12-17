@@ -1,0 +1,3 @@
+[submodule "UVPlugin-LCatalog"]
+	path = UVPlugin-LCatalog
+	url = https://github.com/OpenDataNode/UVPlugin-LCatalog
