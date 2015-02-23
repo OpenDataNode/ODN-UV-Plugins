@@ -1,3 +1,6 @@
 [submodule "UVPlugin-LCatalog"]
 	path = UVPlugin-LCatalog
 	url = https://github.com/OpenDataNode/UVPlugin-LCatalog
+[submodule "UVPlugin-ISO2709ToMarcXML"]
+	path = UVPlugin-ISO2709ToMarcXML
+	url = https://github.com/OpenDataNode/UVPlugin-ISO2709ToMarcXML.git
