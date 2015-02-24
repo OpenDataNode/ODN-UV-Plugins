@@ -12,6 +12,7 @@
 		<!-- EXTRACTORS -->
 
 		<!-- TRANSFORMERS -->
+		<module>UVPlugin-ISO2709ToMarcXML</module>
 
 		<!-- LOADERS -->
 		<module>UVPlugin-LCatalog</module>
