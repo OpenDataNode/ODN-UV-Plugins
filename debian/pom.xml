@@ -50,7 +50,7 @@
     </repositories>
 
     <build>
-        <finalName>unifiedviews-plugins-${project.version}</finalName>    
+        <finalName>odn-uv-plugins-${project.version}</finalName>    
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
