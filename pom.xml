@@ -9,8 +9,6 @@
 
     <!-- list of core modules -->
     <modules>
-        <!-- EXTRACTORS -->
-
         <!-- TRANSFORMERS for COMSODE-->
         <module>t-ISO2709ToMarcXML</module>
 
@@ -20,7 +18,11 @@
         <module>l-rdfToCKAN</module>
         <module>l-relationalToCKAN</module>
         <module>l-relationalDiffToCKAN</module>
+
+        <!-- Debian -->
+        <module>debian</module>
     </modules>
+
     <repositories>
         <repository>
             <id>maven.eea.sk</id>
