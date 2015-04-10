@@ -22,22 +22,22 @@
 		<dependency>
 			<groupId>${plugins.groupid}</groupId>
 			<artifactId>uv-l-filesToCkan</artifactId>
-			<version>1.0.0</version>
+			<version>1.0.1-SNAPSHOT</version>
 		</dependency>
 		<dependency>
 			<groupId>${plugins.groupid}</groupId>
 			<artifactId>uv-l-rdfToCkan</artifactId>
-			<version>1.0.0</version>
+			<version>1.0.1-SNAPSHOT</version>
 		</dependency>
 		<dependency>
 			<groupId>${plugins.groupid}</groupId>
 			<artifactId>uv-l-relationalToCkan</artifactId>
-			<version>1.0.0</version>
+			<version>1.0.1-SNAPSHOT</version>
 		</dependency>
 		<dependency>
 			<groupId>${plugins.groupid}</groupId>
 			<artifactId>uv-l-relationaldiffToCkan</artifactId>
-			<version>1.0.0</version>
+			<version>1.0.1-SNAPSHOT</version>
 		</dependency>
 	</dependencies>
 
