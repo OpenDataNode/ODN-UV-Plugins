@@ -24,8 +24,8 @@ install_dpu() {
     echo $outcontents
 }
 
-install_dpu "uv-l-catalog-*.jar"                
-install_dpu "uv-l-filesToCkan-*.jar"            
-install_dpu "uv-l-rdfToCkan-*.jar"              
-install_dpu "uv-l-relationalToCkan-*.jar"       
-install_dpu "uv-l-relationaldiffToCkan-*.jar"   
+install_dpu "/usr/share/unifiedviews/dist/odn_plugins/uv-l-catalog-*.jar"                
+install_dpu "/usr/share/unifiedviews/dist/odn_plugins/uv-l-filesToCkan-*.jar"            
+install_dpu "/usr/share/unifiedviews/dist/odn_plugins/uv-l-rdfToCkan-*.jar"              
+install_dpu "/usr/share/unifiedviews/dist/odn_plugins/uv-l-relationalToCkan-*.jar"       
+install_dpu "/usr/share/unifiedviews/dist/odn_plugins/uv-l-relationaldiffToCkan-*.jar"   
