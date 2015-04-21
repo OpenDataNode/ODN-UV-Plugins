@@ -11,7 +11,9 @@
 
 	<properties>
 		<plugins.opendatanode.groupid>org.opendatanode.plugins</plugins.opendatanode.groupid>
-	</properties>
+        <debian-package-version>2.0.1~</debian-package-version>
+        <debian-package-name>${project.build.directory}/odn-uv-plugins_${debian-package-version}_all.deb</debian-package-name>
+    </properties>
 
 	<dependencies>
 		<dependency>

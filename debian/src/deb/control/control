@@ -1,4 +1,4 @@
-Package: odn-uv-plugins-deb
+Package: odn-uv-plugins
 Version: [[debian-package-version]]
 Section: java
 Priority: extra
