@@ -1,3 +1,18 @@
-[submodule "UVPlugin-LCatalog"]
-	path = UVPlugin-LCatalog
+[submodule "l-catalog"]
+	path = l-catalog
 	url = https://github.com/OpenDataNode/UVPlugin-LCatalog
+[submodule "l-filesToCKAN"]
+	path = l-filesToCKAN
+	url = https://github.com/OpenDataNode/UVPlugin-filesToCKAN
+[submodule "l-rdfToCKAN"]
+	path = l-rdfToCKAN
+	url = https://github.com/OpenDataNode/UVPlugin-rdfToCKAN
+[submodule "l-relationalDiffToCKAN"]
+	path = l-relationalDiffToCKAN
+	url = https://github.com/OpenDataNode/UVPlugin-relationalDiffToCKAN
+[submodule "l-relationalToCKAN"]
+	path = l-relationalToCKAN
+	url = https://github.com/OpenDataNode/UVPlugin-relationalToCKAN
+[submodule "t-ISO2709ToMarcXML"]
+	path = t-ISO2709ToMarcXML
+	url = https://github.com/OpenDataNode/UVPlugin-ISO2709ToMarcXML
