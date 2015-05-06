@@ -9,15 +9,17 @@
 
 	<!-- list of core modules -->
 	<modules>
-		<!-- TRANSFORMERS for COMSODE-->
-		<module>t-ISO2709ToMarcXML</module>
-
 		<!-- LOADERS to CKAN -->
 		<module>l-catalog</module>
 		<module>l-filesToCKAN</module>
 		<module>l-rdfToCKAN</module>
 		<module>l-relationalToCKAN</module>
 		<module>l-relationalDiffToCKAN</module>
+
+		<!-- TRANSFORMERS for COMSODE-->
+		<module>t-ISO2709ToMarcXML</module>
+		<module>t-geonamesOrgToNTriples</module>
+
 	</modules>
 
 	<profiles>

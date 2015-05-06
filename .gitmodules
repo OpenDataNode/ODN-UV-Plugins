@@ -16,3 +16,6 @@
 [submodule "t-ISO2709ToMarcXML"]
 	path = t-ISO2709ToMarcXML
 	url = https://github.com/OpenDataNode/UVPlugin-ISO2709ToMarcXML
+[submodule "t-geonamesOrgToNTriples"]
+	path = t-geonamesOrgToNTriples
+	url = https://github.com/OpenDataNode/UVPlugin-geonamesOrgToTriples.git
