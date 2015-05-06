@@ -29,12 +29,6 @@
 				<activeByDefault>false</activeByDefault>
 			</activation>
 			<modules>
-				<module>t-ISO2709ToMarcXML</module>
-				<module>l-catalog</module>
-				<module>l-filesToCKAN</module>
-				<module>l-rdfToCKAN</module>
-				<module>l-relationalToCKAN</module>
-				<module>l-relationalDiffToCKAN</module>
 				<module>debian</module>
 			</modules>
 		</profile>
