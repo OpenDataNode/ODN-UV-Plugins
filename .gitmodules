@@ -1,6 +1,3 @@
-[submodule "l-catalog"]
-	path = l-catalog
-	url = https://github.com/OpenDataNode/UVPlugin-LCatalog
 [submodule "l-filesToCKAN"]
 	path = l-filesToCKAN
 	url = https://github.com/OpenDataNode/UVPlugin-filesToCKAN
