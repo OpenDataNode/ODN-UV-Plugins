@@ -19,3 +19,7 @@
 [submodule "t-geonamesOrgToNTriples"]
 	path = t-geonamesOrgToNTriples
 	url = https://github.com/comsode-uv-plugins/t-geonamesOrgToTriples.git
+[submodule "t-skWhoisToCsv"]
+	path = t-skWhoisToCsv
+	url = https://github.com/comsode-uv-plugins/t-skWhoisToCsv.git
+	branch = develop
