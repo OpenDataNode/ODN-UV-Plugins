@@ -1,3 +1,6 @@
+[submodule "l-filesToCKAN"]
+	path = l-filesToCKAN
+	url = https://github.com/OpenDataNode/UVPlugin-filesToCKAN
 [submodule "l-rdfToCKAN"]
 	path = l-rdfToCKAN
 	url = https://github.com/OpenDataNode/UVPlugin-rdfToCKAN
