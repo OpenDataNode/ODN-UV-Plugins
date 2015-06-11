@@ -1,9 +1,3 @@
-[submodule "l-catalog"]
-	path = l-catalog
-	url = https://github.com/OpenDataNode/UVPlugin-LCatalog
-[submodule "l-filesToCKAN"]
-	path = l-filesToCKAN
-	url = https://github.com/OpenDataNode/UVPlugin-filesToCKAN
 [submodule "l-rdfToCKAN"]
 	path = l-rdfToCKAN
 	url = https://github.com/OpenDataNode/UVPlugin-rdfToCKAN
@@ -13,13 +7,3 @@
 [submodule "l-relationalToCKAN"]
 	path = l-relationalToCKAN
 	url = https://github.com/OpenDataNode/UVPlugin-relationalToCKAN
-[submodule "t-ISO2709ToMarcXML"]
-	path = t-ISO2709ToMarcXML
-	url = https://github.com/comsode-uv-plugins/t-ISO2709ToMarcXML.git
-[submodule "t-geonamesOrgToNTriples"]
-	path = t-geonamesOrgToNTriples
-	url = https://github.com/comsode-uv-plugins/t-geonamesOrgToTriples.git
-[submodule "t-skWhoisToCsv"]
-	path = t-skWhoisToCsv
-	url = https://github.com/comsode-uv-plugins/t-skWhoisToCsv.git
-	branch = develop
