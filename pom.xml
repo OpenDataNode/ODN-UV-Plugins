@@ -10,7 +10,6 @@
 	<!-- list of core modules -->
 	<modules>
 		<!-- LOADERS to CKAN -->
-		<module>l-catalog</module>
 		<module>l-filesToCKAN</module>
 		<module>l-rdfToCKAN</module>
 		<module>l-relationalToCKAN</module>
