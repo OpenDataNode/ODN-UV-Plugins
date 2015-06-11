@@ -1,6 +1,3 @@
-[submodule "l-catalog"]
-	path = l-catalog
-	url = https://github.com/OpenDataNode/UVPlugin-LCatalog
 [submodule "l-filesToCKAN"]
 	path = l-filesToCKAN
 	url = https://github.com/OpenDataNode/UVPlugin-filesToCKAN
@@ -13,6 +10,3 @@
 [submodule "l-relationalToCKAN"]
 	path = l-relationalToCKAN
 	url = https://github.com/OpenDataNode/UVPlugin-relationalToCKAN
-[submodule "t-ISO2709ToMarcXML"]
-	path = t-ISO2709ToMarcXML
-	url = https://github.com/comsode-uv-plugins/t-ISO2709ToMarcXML.git
