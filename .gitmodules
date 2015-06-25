@@ -10,3 +10,12 @@
 [submodule "l-relationalToCKAN"]
 	path = l-relationalToCKAN
 	url = https://github.com/OpenDataNode/UVPlugin-relationalToCKAN
+[submodule "l-rdfToVirtuosoAndCkan"]
+	path = l-rdfToVirtuosoAndCkan
+	url = https://github.com/OpenDataNode/UVPlugin-rdfToVirtuosoAndCkan.git
+[submodule "e-relationalFromCKAN"]
+	path = e-relationalFromCKAN
+	url = https://github.com/OpenDataNode/UVPlugin-relationalFromCKAN.git
+[submodule "e-filesFromCKAN"]
+	path = e-filesFromCKAN
+	url = https://github.com/OpenDataNode/UVPlugin-filesFromCKAN.git
