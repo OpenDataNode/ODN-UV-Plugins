@@ -14,7 +14,9 @@
         <module>l-rdfToCKAN</module>
         <module>l-relationalToCKAN</module>
         <module>l-relationalDiffToCKAN</module>
-
+        <module>l-rdfToVirtuosoAndCkan</module>
+        <module>e-filesFromCKAN</module>
+        <module>e-relationalFromCKAN</module>
     </modules>
 
     <profiles>
