@@ -4,5 +4,5 @@ Section: java
 Priority: extra
 Architecture: all
 Maintainer: jmc@eea.sk
-Depends: unifiedviews-plugins
+Depends: unifiedviews-plugins (>> 1.1), unifiedviews-plugins (<< 1.2)
 Description: OpenDataNode UnifiedViews Plugins (DPUs).
