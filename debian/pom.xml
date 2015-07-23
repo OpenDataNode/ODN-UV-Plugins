@@ -6,35 +6,50 @@
 	<groupId>org.opendatanode.packages</groupId>
 	<artifactId>odn-uv-plugins-deb</artifactId>
 	<name>odn-uv-plugins-deb</name>
-	<version>2.1.0-SNAPSHOT</version>
+	<version>1.1.1</version>
 	<description>Open Data Node UnifiedViews Plugins debian package</description>
 
 	<properties>
 		<plugins.opendatanode.groupid>org.opendatanode.plugins</plugins.opendatanode.groupid>
-		<debian-package-version>2.1.0~ALFA</debian-package-version>
+		<debian-package-version>1.1.1</debian-package-version>
 		<debian-package-name>${project.build.directory}/odn-uv-plugins_${debian-package-version}_all.deb</debian-package-name>
 	</properties>
 
 	<dependencies>
 		<dependency>
 			<groupId>${plugins.opendatanode.groupid}</groupId>
+			<artifactId>uv-e-filesFromCKAN</artifactId>
+			<version>1.0.0</version>
+		</dependency>
+		<dependency>
+			<groupId>${plugins.opendatanode.groupid}</groupId>
+			<artifactId>uv-e-relationalFromCKAN</artifactId>
+			<version>1.0.0</version>
+		</dependency>
+		<dependency>
+			<groupId>${plugins.opendatanode.groupid}</groupId>
 			<artifactId>uv-l-filesToCkan</artifactId>
-			<version>1.1.0-SNAPSHOT</version>
+			<version>1.1.1</version>
 		</dependency>
 		<dependency>
 			<groupId>${plugins.opendatanode.groupid}</groupId>
 			<artifactId>uv-l-rdfToCkan</artifactId>
-			<version>1.1.0-SNAPSHOT</version>
+			<version>1.1.1</version>
 		</dependency>
 		<dependency>
 			<groupId>${plugins.opendatanode.groupid}</groupId>
-			<artifactId>uv-l-relationalToCkan</artifactId>
-			<version>1.1.0-SNAPSHOT</version>
+			<artifactId>uv-l-rdfToVirtuosoAndCkan</artifactId>
+			<version>1.1.0</version>
 		</dependency>
 		<dependency>
 			<groupId>${plugins.opendatanode.groupid}</groupId>
 			<artifactId>uv-l-relationaldiffToCkan</artifactId>
-			<version>1.1.0-SNAPSHOT</version>
+			<version>1.1.1</version>
+		</dependency>
+		<dependency>
+			<groupId>${plugins.opendatanode.groupid}</groupId>
+			<artifactId>uv-l-relationalToCkan</artifactId>
+			<version>1.1.1</version>
 		</dependency>
 	</dependencies>
 

@@ -24,7 +24,10 @@ install_dpu() {
     echo $outcontents
 }
 
-install_dpu "/usr/share/unifiedviews/dist/odn_plugins/uv-l-filesToCkan-*.jar"            
-install_dpu "/usr/share/unifiedviews/dist/odn_plugins/uv-l-rdfToCkan-*.jar"              
-install_dpu "/usr/share/unifiedviews/dist/odn_plugins/uv-l-relationalToCkan-*.jar"       
-install_dpu "/usr/share/unifiedviews/dist/odn_plugins/uv-l-relationaldiffToCkan-*.jar"   
+#install_dpu "/usr/share/unifiedviews/dist/odn_plugins/uv-e-filesFromCKAN-*.jar"
+#install_dpu "/usr/share/unifiedviews/dist/odn_plugins/uv-e-relationalFromCKAN-*.jar"
+install_dpu "/usr/share/unifiedviews/dist/odn_plugins/uv-l-filesToCkan-*.jar"
+install_dpu "/usr/share/unifiedviews/dist/odn_plugins/uv-l-rdfToCkan-*.jar"
+install_dpu "/usr/share/unifiedviews/dist/odn_plugins/uv-l-rdfToVirtuosoAndCkan-*.jar"
+install_dpu "/usr/share/unifiedviews/dist/odn_plugins/uv-l-relationaldiffToCkan-*.jar"
+install_dpu "/usr/share/unifiedviews/dist/odn_plugins/uv-l-relationalToCkan-*.jar"
