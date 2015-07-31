@@ -39,7 +39,7 @@
 		<dependency>
 			<groupId>${plugins.opendatanode.groupid}</groupId>
 			<artifactId>uv-l-rdfToVirtuosoAndCkan</artifactId>
-			<version>1.1.1-SNAPSHOT</version>
+			<version>1.1.2-SNAPSHOT</version>
 		</dependency>
 		<dependency>
 			<groupId>${plugins.opendatanode.groupid}</groupId>
