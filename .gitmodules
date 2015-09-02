@@ -26,3 +26,7 @@
 	path = e-filesFromCKAN
 	url = https://github.com/OpenDataNode/UVPlugin-filesFromCKAN.git
 	develop = develop
+[submodule "e-executeShellScript"]
+	path = e-executeShellScript
+	url = https://github.com/OpenDataNode/UVPlugin-executeShellScript.git
+	branch = develop
