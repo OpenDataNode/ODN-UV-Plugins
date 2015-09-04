@@ -17,7 +17,6 @@
         <module>l-rdfToVirtuosoAndCkan</module>
         <module>e-filesFromCKAN</module>
         <module>e-relationalFromCKAN</module>
-        <module>e-executeShellScript</module>
     </modules>
 
     <profiles>
