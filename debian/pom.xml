@@ -11,7 +11,7 @@
 
     <properties>
         <plugins.opendatanode.groupid>org.opendatanode.plugins</plugins.opendatanode.groupid>
-        <debian-package-version>2.1.4~ALFA</debian-package-version>
+        <debian-package-version>2.1.4~RC</debian-package-version>
         <debian-package-name>${project.build.directory}/odn-uv-plugins_${debian-package-version}_all.deb</debian-package-name>
     </properties>
 
