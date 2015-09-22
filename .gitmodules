@@ -1,21 +1,28 @@
 [submodule "l-filesToCKAN"]
 	path = l-filesToCKAN
 	url = https://github.com/OpenDataNode/UVPlugin-filesToCKAN
+	branch = develop
 [submodule "l-rdfToCKAN"]
 	path = l-rdfToCKAN
 	url = https://github.com/OpenDataNode/UVPlugin-rdfToCKAN
+	branch = develop
 [submodule "l-relationalDiffToCKAN"]
 	path = l-relationalDiffToCKAN
 	url = https://github.com/OpenDataNode/UVPlugin-relationalDiffToCKAN
+	branch = develop
 [submodule "l-relationalToCKAN"]
 	path = l-relationalToCKAN
 	url = https://github.com/OpenDataNode/UVPlugin-relationalToCKAN
+	branch = develop
 [submodule "l-rdfToVirtuosoAndCkan"]
 	path = l-rdfToVirtuosoAndCkan
 	url = https://github.com/OpenDataNode/UVPlugin-rdfToVirtuosoAndCkan.git
+	branch = develop
 [submodule "e-relationalFromCKAN"]
 	path = e-relationalFromCKAN
 	url = https://github.com/OpenDataNode/UVPlugin-relationalFromCKAN.git
+	branch = develop
 [submodule "e-filesFromCKAN"]
 	path = e-filesFromCKAN
 	url = https://github.com/OpenDataNode/UVPlugin-filesFromCKAN.git
+	branch = develop
