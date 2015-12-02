@@ -4,7 +4,7 @@ Section: java
 Priority: extra
 Architecture: all
 Maintainer: jmc@eea.sk
-Depends: curl unifiedviews-webapp (>> 2.2), unifiedviews-webapp (<< 3)
+Depends: curl, unifiedviews-webapp (>> 2.2), unifiedviews-webapp (<< 3)
 Conflicts: unifiedviews-plugins
 Replaces: unifiedviews-plugins
 Description: OpenDataNode UnifiedViews Plugins (DPUs).
