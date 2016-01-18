@@ -20,12 +20,12 @@
         <dependency>
             <groupId>${plugins.opendatanode.groupid}</groupId>
             <artifactId>uv-e-filesFromCKAN</artifactId>
-            <version>1.1.5</version>
+            <version>1.1.6-SNAPSHOT</version>
         </dependency>
         <dependency>
             <groupId>${plugins.opendatanode.groupid}</groupId>
             <artifactId>uv-e-relationalFromCKAN</artifactId>
-            <version>1.1.5</version>
+            <version>1.1.6-SNAPSHOT</version>
         </dependency>
         <dependency>
             <groupId>${plugins.opendatanode.groupid}</groupId>
