@@ -20,17 +20,17 @@
         <dependency>
             <groupId>${plugins.opendatanode.groupid}</groupId>
             <artifactId>uv-e-filesFromCKAN</artifactId>
-            <version>1.1.6</version>
+            <version>1.1.7-SNAPSHOT</version>
         </dependency>
         <dependency>
             <groupId>${plugins.opendatanode.groupid}</groupId>
             <artifactId>uv-e-relationalFromCKAN</artifactId>
-            <version>1.1.6</version>
+            <version>1.1.7-SNAPSHOT</version>
         </dependency>
         <dependency>
             <groupId>${plugins.opendatanode.groupid}</groupId>
             <artifactId>uv-l-filesToCkan</artifactId>
-            <version>1.1.5</version>
+            <version>1.1.6-SNAPSHOT</version>
         </dependency>
         <dependency>
             <groupId>${plugins.opendatanode.groupid}</groupId>
@@ -45,12 +45,12 @@
         <dependency>
             <groupId>${plugins.opendatanode.groupid}</groupId>
             <artifactId>uv-l-relationaldiffToCkan</artifactId>
-            <version>1.1.6</version>
+            <version>1.1.7-SNAPSHOT</version>
         </dependency>
         <dependency>
             <groupId>${plugins.opendatanode.groupid}</groupId>
             <artifactId>uv-l-relationalToCkan</artifactId>
-            <version>1.1.7</version>
+            <version>1.1.8-SNAPSHOT</version>
         </dependency>
 
         <!-- Plugins from UnifiedViews/Plugins -->
