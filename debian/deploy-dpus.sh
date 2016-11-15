@@ -45,6 +45,7 @@ install_dpu "/usr/share/unifiedviews/dist/odn_plugins/uv-l-filesToVirtuoso-*.jar
 install_dpu "/usr/share/unifiedviews/dist/odn_plugins/uv-l-filesUpload-*.jar"
 install_dpu "/usr/share/unifiedviews/dist/odn_plugins/uv-l-rdfToVirtuoso-*.jar"
 install_dpu "/usr/share/unifiedviews/dist/odn_plugins/uv-l-relationalToSql-*.jar"
+install_dpu "/usr/share/unifiedviews/dist/odn_plugins/uv-q-sparqlAsk-*.jar"
 install_dpu "/usr/share/unifiedviews/dist/odn_plugins/uv-t-excelToCsv-*.jar"
 install_dpu "/usr/share/unifiedviews/dist/odn_plugins/uv-t-filesFilter-*.jar"
 install_dpu "/usr/share/unifiedviews/dist/odn_plugins/uv-t-filesMerger-*.jar"
