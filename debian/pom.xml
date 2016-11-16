@@ -171,11 +171,6 @@
         </dependency>
         <dependency>
             <groupId>${plugins.uv.groupid}</groupId>
-            <artifactId>uv-t-relationalToRdf</artifactId>
-            <version>1.0.2</version>
-        </dependency>
-        <dependency>
-            <groupId>${plugins.uv.groupid}</groupId>
             <artifactId>uv-t-rdfGraphMerger</artifactId>
             <version>1.0.2</version>
         </dependency>
